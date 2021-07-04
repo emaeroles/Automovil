@@ -1,0 +1,6 @@
+D:\TUP\Programacion 1\Ejercicios\U2 POO\Automovil\Automovil\bin\Debug\Automovil.exe.config
+D:\TUP\Programacion 1\Ejercicios\U2 POO\Automovil\Automovil\bin\Debug\Automovil.exe
+D:\TUP\Programacion 1\Ejercicios\U2 POO\Automovil\Automovil\bin\Debug\Automovil.pdb
+D:\TUP\Programacion 1\Ejercicios\U2 POO\Automovil\Automovil\obj\Debug\Automovil.csproj.CoreCompileInputs.cache
+D:\TUP\Programacion 1\Ejercicios\U2 POO\Automovil\Automovil\obj\Debug\Automovil.exe
+D:\TUP\Programacion 1\Ejercicios\U2 POO\Automovil\Automovil\obj\Debug\Automovil.pdb
